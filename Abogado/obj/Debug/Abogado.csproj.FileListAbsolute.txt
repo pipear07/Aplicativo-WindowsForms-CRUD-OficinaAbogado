@@ -1,0 +1,51 @@
+C:\Users\pipea\Videos\Abogado\Abogado\bin\Debug\Abogado.exe.config
+C:\Users\pipea\Videos\Abogado\Abogado\bin\Debug\Abogado.exe.manifest
+C:\Users\pipea\Videos\Abogado\Abogado\bin\Debug\Abogado.application
+C:\Users\pipea\Videos\Abogado\Abogado\bin\Debug\Abogado.exe
+C:\Users\pipea\Videos\Abogado\Abogado\bin\Debug\Abogado.pdb
+C:\Users\pipea\Videos\Abogado\Abogado\obj\Debug\Abogado.csprojResolveAssemblyReference.cache
+C:\Users\pipea\Videos\Abogado\Abogado\obj\Debug\Abogado.Buscar.resources
+C:\Users\pipea\Videos\Abogado\Abogado\obj\Debug\Abogado.Crear_Notificaciones.resources
+C:\Users\pipea\Videos\Abogado\Abogado\obj\Debug\Abogado.Form1.resources
+C:\Users\pipea\Videos\Abogado\Abogado\obj\Debug\Abogado.Generador_de_Reporte.resources
+C:\Users\pipea\Videos\Abogado\Abogado\obj\Debug\Abogado.Inicio_de_sesion.resources
+C:\Users\pipea\Videos\Abogado\Abogado\obj\Debug\Abogado.Properties.Resources.resources
+C:\Users\pipea\Videos\Abogado\Abogado\obj\Debug\Abogado.csproj.GenerateResource.Cache
+C:\Users\pipea\Videos\Abogado\Abogado\obj\Debug\RdlCompile.cache
+C:\Users\pipea\Videos\Abogado\Abogado\obj\Debug\RdlCompile.compiled
+C:\Users\pipea\Videos\Abogado\Abogado\obj\Debug\Abogado.TrustInfo.xml
+C:\Users\pipea\Videos\Abogado\Abogado\obj\Debug\Abogado.exe.manifest
+C:\Users\pipea\Videos\Abogado\Abogado\obj\Debug\Abogado.application
+C:\Users\pipea\Videos\Abogado\Abogado\obj\Debug\Abogado.exe
+C:\Users\pipea\Videos\Abogado\Abogado\obj\Debug\Abogado.pdb
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\bin\Debug\Abogado.exe.config
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\obj\Debug\Abogado.exe
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\obj\Debug\Abogado.pdb
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\obj\Debug\Abogado.csprojResolveAssemblyReference.cache
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\obj\Debug\Abogado.Crear_Notificaciones.resources
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\obj\Debug\Abogado.Form1.resources
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\obj\Debug\Abogado.Generador_de_Reporte.resources
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\obj\Debug\Abogado.Inicio_de_sesion.resources
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\obj\Debug\Abogado.Properties.Resources.resources
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\obj\Debug\Abogado.csproj.GenerateResource.Cache
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\obj\Debug\RdlCompile.cache
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\obj\Debug\RdlCompile.compiled
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\bin\Debug\Abogado.exe.manifest
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\bin\Debug\Abogado.application
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\bin\Debug\Abogado.exe
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\bin\Debug\Abogado.pdb
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\obj\Debug\Abogado.TrustInfo.xml
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\obj\Debug\Abogado.exe.manifest
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\obj\Debug\Abogado.application
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\bin\Debug\ObjetodeNegocios.dll
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\Abogado\bin\Debug\ObjetodeNegocios.pdb
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\Abogado\Abogado\bin\Debug\Abogado.exe.config
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\Abogado\Abogado\obj\Debug\Abogado.exe
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\Abogado\Abogado\obj\Debug\Abogado.pdb
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\Abogado\Abogado\obj\Debug\Abogado.csprojResolveAssemblyReference.cache
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\Abogado\Abogado\obj\Debug\Abogado.Crear_Notificaciones.resources
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\Abogado\Abogado\obj\Debug\Abogado.Form1.resources
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\Abogado\Abogado\obj\Debug\Abogado.Generador_de_Reporte.resources
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\Abogado\Abogado\obj\Debug\Abogado.Inicio_de_sesion.resources
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\Abogado\Abogado\obj\Debug\Abogado.Properties.Resources.resources
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\Abogado\Abogado\obj\Debug\Abogado.csproj.GenerateResource.Cache

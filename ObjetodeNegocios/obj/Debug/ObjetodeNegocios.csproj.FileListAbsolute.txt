@@ -1,0 +1,10 @@
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\ObjetodeNegocios\obj\Debug\ObjetodeNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\ObjetodeNegocios\bin\Debug\ObjetodeNegocios.dll
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\ObjetodeNegocios\bin\Debug\ObjetodeNegocios.pdb
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\ObjetodeNegocios\obj\Debug\ObjetodeNegocios.dll
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\Abogado\ObjetodeNegocios\obj\Debug\ObjetodeNegocios.pdb
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\Abogado\ObjetodeNegocios\bin\Debug\ObjetodeNegocios.dll
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\Abogado\ObjetodeNegocios\bin\Debug\ObjetodeNegocios.pdb
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\Abogado\ObjetodeNegocios\obj\Debug\ObjetodeNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\Abogado\ObjetodeNegocios\obj\Debug\ObjetodeNegocios.dll
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\Abogado\ObjetodeNegocios\obj\Debug\ObjetodeNegocios.pdb

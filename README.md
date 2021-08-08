@@ -1,0 +1,2 @@
+# Aplicativo-WindowsForms-CRUD-OficinaAbogado
+ Este es un proyecto para un abogado, utilizando .NET lenguajes como C# y SQL-Server , es un formulario con su respectivo CRUD en una oficina particular, de acuerdo a la peticion del usuario se llevo acabo un diseño simple y facil de usar.  Este programa tiene menustrip y notifyicon para notificarle al usuario sobre las audiencias que tiene programadas en una determinada fecha

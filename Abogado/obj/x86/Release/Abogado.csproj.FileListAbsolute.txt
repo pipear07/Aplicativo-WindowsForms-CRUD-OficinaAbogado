@@ -1,0 +1,15 @@
+C:\Users\pipea\Videos\Abogado\Abogado\bin\x86\Release\Abogado.exe.config
+C:\Users\pipea\Videos\Abogado\Abogado\bin\x86\Release\Abogado.exe.manifest
+C:\Users\pipea\Videos\Abogado\Abogado\bin\x86\Release\Abogado.application
+C:\Users\pipea\Videos\Abogado\Abogado\bin\x86\Release\Abogado.exe
+C:\Users\pipea\Videos\Abogado\Abogado\bin\x86\Release\Abogado.pdb
+C:\Users\pipea\Videos\Abogado\Abogado\obj\x86\Release\Abogado.csprojResolveAssemblyReference.cache
+C:\Users\pipea\Videos\Abogado\Abogado\obj\x86\Release\Abogado.Buscar.resources
+C:\Users\pipea\Videos\Abogado\Abogado\obj\x86\Release\Abogado.Form1.resources
+C:\Users\pipea\Videos\Abogado\Abogado\obj\x86\Release\Abogado.Properties.Resources.resources
+C:\Users\pipea\Videos\Abogado\Abogado\obj\x86\Release\Abogado.csproj.GenerateResource.Cache
+C:\Users\pipea\Videos\Abogado\Abogado\obj\x86\Release\Abogado.TrustInfo.xml
+C:\Users\pipea\Videos\Abogado\Abogado\obj\x86\Release\Abogado.exe.manifest
+C:\Users\pipea\Videos\Abogado\Abogado\obj\x86\Release\Abogado.application
+C:\Users\pipea\Videos\Abogado\Abogado\obj\x86\Release\Abogado.exe
+C:\Users\pipea\Videos\Abogado\Abogado\obj\x86\Release\Abogado.pdb

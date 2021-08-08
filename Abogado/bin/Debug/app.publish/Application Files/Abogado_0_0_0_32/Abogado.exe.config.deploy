@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="Abogado.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <connectionStrings>
+        <add name="Abogado.Properties.Settings.ProcesosConnectionString"
+            connectionString="Data Source=DESKTOP-39U6VSR\AREVALO_OS;Initial Catalog=Procesos;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+        <add name="Abogado.Properties.Settings.Procesos2ConnectionString"
+            connectionString="Data Source=Procesos2.mssql.somee.com;Initial Catalog=Procesos2;Persist Security Info=True;User ID=josare-1362;Password=AFAM2017"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+<startup><supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/></startup><userSettings>
+        <Abogado.Properties.Settings>
+            <setting name="Caja1" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="Caja2" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="Caja3" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="Caja4" serializeAs="String">
+                <value />
+            </setting>
+        </Abogado.Properties.Settings>
+    </userSettings>
+</configuration>
